@@ -1,0 +1,6 @@
+{
+  "client": "./client/dist",
+  "svr": "./server",
+  "miniprogramRoot": "./client/dist",
+  "qcloudRoot": "./server"
+}
